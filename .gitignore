@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 Assignment2/.DS_Store
 .DS_Store
+.csv
